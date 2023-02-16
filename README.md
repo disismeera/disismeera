@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./MeeraBanner.gif)
 -  👋 Hi, I’m Meera
 - 👀 I’m interested in Learning.
 
