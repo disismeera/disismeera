@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Meera
+![Header](./github-header-image.png)
+-  👋 Hi, I’m Meera
 - 👀 I’m interested in Learning.
 
 
