@@ -7,12 +7,12 @@
 
 - 👋 Hi, I’m Meera
 - 👀 I’m interested in Learning and Exploring new Technologies.
+- 🌱 I’m currently studying Computer Science & Engineering.
+- 😄 Pronouns: She/Her
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=disismeera&show_icons=true&theme=blueberry)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=disismeera&theme=blueberry)
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disismeera&layout=compact&theme=blueberry)
 
