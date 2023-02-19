@@ -14,6 +14,11 @@
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=disismeera&theme=blueberry)
 
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disismeera&layout=compact&theme=blueberry)
+
+## 😂 Here is a random joke that'll bring a smile on your face <3
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 <!---
