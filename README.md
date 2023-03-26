@@ -13,18 +13,22 @@
 
 
 
-![GitHub Stats]( align="center" https://github-readme-stats.vercel.app/api?username=disismeera&show_icons=true&theme=blueberry)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=disismeera&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=disismeera&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=disismeera&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disismeera&layout=compact&theme=blueberry)
 
-## 😂 Here is a random joke that'll bring a smile on your face <3
-![Jokes Card](https://readme-jokes.vercel.app/api)
+---
+[![](https://visitcount.itsvg.in/api?id=disismeera&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 
 
 <!---
 disismeera/disismeera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->
