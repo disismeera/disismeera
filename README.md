@@ -19,16 +19,15 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/disismeera">
-            ![](https://github-readme-stats.vercel.app/api?username=disismeera&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disismeera&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Meera's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/disismeera">
-            
-           ![](https://github-readme-streak-stats.herokuapp.com/?user=disismeera&theme=dark&hide_border=true)<br/>
-            
+            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
+            <img src="https://github-readme-stats.vercel.app/api?username=disismeera&show_icons=true&hide=stars&hide_border=true" alt="Meera's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
@@ -36,16 +35,6 @@
     </tbody>
   <table>
 <div>
-  
- 
-  <p align="center">
-    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=disismeera&theme=dark&hide_border=true" vertical-align="middle"/>
-  
-
-    
-  </p>
-
 ---
 
 
