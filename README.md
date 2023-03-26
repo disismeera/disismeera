@@ -1,4 +1,4 @@
-![Header](./MeeraBanner.gif)
+![Header](./Purple Sky Profile Header.png)
 
 
 <h1 align="center">Hellooowww, I’m Meera Parmar 👋 </h1>
