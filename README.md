@@ -19,7 +19,7 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/disismeera">
-            <img src="![](https://github-readme-stats.vercel.app/api?username=disismeera&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>" alt="Meera" vertical-align="middle"/>
+            ![](https://github-readme-stats.vercel.app/api?username=disismeera&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
           </a>
         </div>
         </td>
@@ -27,7 +27,8 @@
         <div align="center" width="100%">
           <a href="https://github.com/disismeera">
             
-            <img src="https://github-readme-stats.vercel.app/api?username=disismeera&show_icons=true&hide=stars&hide_border=true" alt="Meera's GitHub Stats" vertical-align="middle"/>
+           ![](https://github-readme-streak-stats.herokuapp.com/?user=disismeera&theme=dark&hide_border=true)<br/>
+            
           </a>
         </div>
         </td>
