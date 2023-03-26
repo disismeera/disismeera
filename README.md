@@ -36,8 +36,12 @@
   <table>
 <div>
 ---
+<div align='center'>  
 
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=disismeera&theme=dark&hide_border=true)<br/>
+  
+  </div>
+---
 
 <h3>Let's Chat</h3>
 
