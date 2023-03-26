@@ -1,4 +1,4 @@
-![Header](./Meera.png)
+
 
 
 <h1 align="center">Hellooowww, I’m Meera Parmar 👋 </h1>
