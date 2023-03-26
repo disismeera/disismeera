@@ -26,8 +26,8 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/disismeera">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=disismeera&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" vertical-align="middle"/>
+            
+            <img src="https://github-readme-stats.vercel.app/api?username=disismeera&show_icons=true&hide=stars&hide_border=true" alt="Meera's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
@@ -35,6 +35,14 @@
     </tbody>
   <table>
 <div>
+  
+ <div align="center">
+    
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=disismeera&theme=dark&hide_border=true" vertical-align="middle"/>
+  
+
+    
+  </div>
 
 ---
 
