@@ -8,18 +8,16 @@
 - 😄 Pronouns: She/Her
 - 🎵 Music is the second thing I am passionate about. (we can discuss theory behing TS's songs.)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/iammeera_)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/meera-parmar-b8501a201/)
 
 
-
-# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=disismeera&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=disismeera&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=disismeera&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
+---
+<h3>Let's Chat</h3>
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/iammeera_)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/meera-parmar-b8501a201/)
 
 
 
