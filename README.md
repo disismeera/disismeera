@@ -19,7 +19,7 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/disismeera">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disismeera&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Meera's Language Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disismeera&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Meera's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
