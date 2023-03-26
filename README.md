@@ -36,13 +36,14 @@
   <table>
 <div>
   
- <div align="center">
+ 
+  <p align="center">
     
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=disismeera&theme=dark&hide_border=true" vertical-align="middle"/>
   
 
     
-  </div>
+  </p>
 
 ---
 
