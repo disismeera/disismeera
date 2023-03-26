@@ -5,6 +5,7 @@
 
 - 👀 I’m interested in Learning and Exploring new Technologies.
 - 🌱 I’m currently studying Computer Science & Engineering.
+- 🎯 Interested in Cyber Security.
 - 😄 Pronouns: She/Her
 - 🎵 Music is the second thing I am passionate about. (we can discuss theory behing TS's songs.)
 
