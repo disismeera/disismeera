@@ -10,7 +10,7 @@
 - 🎵 Music is the second thing I am passionate about. (we can discuss theory behing TS's songs)
 
 
-
+ 
 
 ### GitHub Stats 📈
 <div align="center">
